@@ -43,6 +43,11 @@ Output: A real-time video feed with bounding boxes showing detected threats, and
 
 ## Results
 The system was able to:
+# Object Detection Project
+
+This project uses YOLOv5 for object detection in video streams. Below is an example of the detection:
+
+![Enemy Detection Example](https://github.com/onkar-2006/AIT-hackathon_project/blob/main/alert%20message.jpg)
 
 Detect enemies (people, vehicles, etc.) from the video feed in real-time.
 
