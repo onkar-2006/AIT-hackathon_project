@@ -47,7 +47,8 @@ The system was able to:
 
 This project uses YOLOv5 for object detection in video streams. Below is an example of the detection:
 
-<img src="https://github.com/onkar-2006/AIT-hackathon_project/blob/main/alert%20message.jpg" alt="Image Description" width="300" />
+<img src="https://github.com/onkar-2006/AIT-hackathon_project/blob/main/alert%20message.jpg" alt="alert message" width="300" />
+<img src="https://github.com/onkar-2006/AIT-hackathon_project/blob/main/enemydetection.jpg" alt="enemy tracking" width="300" />
 
 Detect enemies (people, vehicles, etc.) from the video feed in real-time.
 
